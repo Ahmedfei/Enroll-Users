@@ -1,0 +1,44 @@
+*body{
+  margin: 0;
+  padding:0;
+  text-align: center;
+  background-color: azure;
+  height: 100vh;
+}
+.ticket{
+  font-weight: 200px;
+  font-size: 20px;
+  background-color: #111010;
+  color: white;
+  text-align: center;
+}
+label{
+  display: block;
+  margin-top: 15px;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 50px;
+  justify-content: space-evenly;
+}
+
+input{
+  box-sizing: content-box;
+}
+
+.field{
+  height: 15px;
+  font-size: 15px;
+}
+:optional{
+  text-align: center;
+  font-size: 15px;
+}
+.conditions{
+  text-align: center;
+  margin-top: 150px;
+ 
+}
+.secondary{
+  font-size: 188px;
+}
+  
